@@ -66,6 +66,7 @@ Predicting personality based solely on names involves simplifying the model and 
 6. **Training the Model:**
 7. **Evaluation:**
 8. **Interpretation:**
+   
 Keep in mind that predicting personality based solely on names is highly limited and prone to bias. It relies on stereotypes and assumptions, and the model's accuracy may be low. Ethical considerations are crucial, and the results should be interpreted with caution.
 
 **LIBRARIES USED:**
