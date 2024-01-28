@@ -58,14 +58,14 @@ Building a personality prediction model involves a combination of psychology exp
 **STEPS INVOLVED:**
 Predicting personality based solely on names involves simplifying the model and likely using external databases or rules. Here are simplified steps:
 
-1. **Dataset Collection:**
-2. **Data Preprocessing:**
-3. **Feature Extraction:**
-4. **Labeling:**
-5. **Model Selection:**
-6. **Training the Model:**
-7. **Evaluation:**
-8. **Interpretation:**
+1. **Dataset Collection**
+2. **Data Preprocessing**
+3. **Feature Extraction**
+4. **Labeling**
+5. **Model Selection**
+6. **Training the Model**
+7. **Evaluation**
+8. **Interpretation**
    
 Keep in mind that predicting personality based solely on names is highly limited and prone to bias. It relies on stereotypes and assumptions, and the model's accuracy may be low. Ethical considerations are crucial, and the results should be interpreted with caution.
 
